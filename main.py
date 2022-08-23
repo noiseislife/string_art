@@ -85,7 +85,7 @@ def string_it(screen, color):
 
 def main():
     black = (0, 0, 0)
-    (width, height) = (700, 700)
+    (width, height) = (775, 775)
 
     screen = pygame.display.set_mode((width, height))
     pygame.display.set_caption('String Art')
